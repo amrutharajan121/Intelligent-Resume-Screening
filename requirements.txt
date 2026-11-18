@@ -3,5 +3,5 @@ pandas
 scikit-learn
 joblib
 reportlab
-pypdf
+PyPDF2
 python-docx
